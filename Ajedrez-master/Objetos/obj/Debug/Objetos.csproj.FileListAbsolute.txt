@@ -1,0 +1,12 @@
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\Objetos\bin\Debug\Objetos.exe.config
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\Objetos\obj\Debug\Objetos.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\Objetos\bin\Debug\Objetos.exe
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\Objetos\bin\Debug\Objetos.pdb
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\Objetos\obj\Debug\Objetos.exe
+C:\Users\Roberto\UGM\Programas\TableroAjedrez\Objetos\obj\Debug\Objetos.pdb
+C:\Users\AztekPride\Documents\Visual Studio 2012\Projects\Ajedrez-master\Ajedrez-master\Objetos\bin\Debug\Objetos.exe.config
+C:\Users\AztekPride\Documents\Visual Studio 2012\Projects\Ajedrez-master\Ajedrez-master\Objetos\obj\Debug\Objetos.exe
+C:\Users\AztekPride\Documents\Visual Studio 2012\Projects\Ajedrez-master\Ajedrez-master\Objetos\obj\Debug\Objetos.pdb
+C:\Users\AztekPride\Documents\Visual Studio 2012\Projects\Ajedrez-master\Ajedrez-master\Objetos\bin\Debug\Objetos.exe
+C:\Users\AztekPride\Documents\Visual Studio 2012\Projects\Ajedrez-master\Ajedrez-master\Objetos\bin\Debug\Objetos.pdb
+C:\Users\AztekPride\Documents\Visual Studio 2012\Projects\Ajedrez-master\Ajedrez-master\Objetos\obj\Debug\Objetos.csprojResolveAssemblyReference.cache
