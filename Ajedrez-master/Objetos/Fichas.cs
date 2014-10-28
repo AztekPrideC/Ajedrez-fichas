@@ -18,7 +18,20 @@ namespace Objetos
                "#()#",
                "#/\\#",
                "(  )",
-               "/   \\"
+               "/__\\"
+            };
+
+        string[] castillo = new string[4]{
+               "|||||",
+               "-----",
+               "(   )",
+               "/__\\"
+            };
+        string[] alfil = new string[4]{
+               " ª  ",
+               " || ",
+               "(  ) ",
+               "/__\\ "
             };
     }
 }
